@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/omnimind-banner.png" alt="OmniMind Case Study" width="800"/>
+  <img src="omnimind-banner.png" alt="OmniMind Case Study" width="800"/>
 </p>
 
 <h1 align="center">OmniMind — Conversational AI at Scale</h1>
