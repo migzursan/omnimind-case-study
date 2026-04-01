@@ -1,0 +1,1 @@
+# omnimind-case-study
