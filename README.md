@@ -2,8 +2,6 @@
   <img src="omnimind-banner.png" alt="OmniMind Case Study" width="800"/>
 </p>
 
-<h1 align="center">OmniMind — Conversational AI at Scale</h1>
-
 <p align="center">
   <strong>How we built a RAG-powered chatbot that deflected 75% of customer support tickets at Vivino.</strong>
 </p>
